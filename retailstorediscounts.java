@@ -2,8 +2,9 @@ package corejava;
 
 import java.util.Scanner;
 
-public class retailstorediscounts {
-		public static void main(String[] args)
+public class retailstorediscounts
+        {
+	public static void main(String[] args)
 	{
 	Scanner scan=new Scanner(System.in);
 	System.out.println("Enter your name: ");
